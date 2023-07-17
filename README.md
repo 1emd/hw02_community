@@ -24,7 +24,6 @@
 - Windows:
   ```
   source env/scripts/activate
-  python3 -m pip install --upgrade pip
   ```
 
 3. Установите зависимости из файла requirements.txt:
@@ -44,6 +43,7 @@
 
 ### Автор:
 [Kirill Khoroshilov](https://github.com/1emd)
+
 
 
 [![CI](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml)
