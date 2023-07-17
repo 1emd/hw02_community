@@ -42,7 +42,7 @@
   ```
 
 ### Автор:
-[Kirill Khoroshilov](https://github.com/1emd)
+[Кирилл Хорошилов](https://github.com/1emd)
 
 
 
